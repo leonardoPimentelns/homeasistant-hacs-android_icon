@@ -1,0 +1,11 @@
+{
+    "domain": "android_icon",
+    "name": "Android Icon",
+    "version": "1.0.0",
+    "documentation": "",
+    "requirements": ["google_play_scraper"],
+    "zeroconf": [],
+    "homekit": {},
+    "dependencies": [],
+    "codeowners": []
+  }
