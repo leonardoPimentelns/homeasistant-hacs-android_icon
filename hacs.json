@@ -1,1 +1,8 @@
+{
 
+  "name": "Android icon",
+  "country": "BR",
+  "render_readme": true,
+  "domains": ["sensor"]
+
+}
